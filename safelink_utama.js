@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="8-benefits-of-playing-video-games.html"}
 if(x=="2"){xxx="the-benefits-of-artificial-intelligence-in-the-workplace.html"}
 if(x=="3"){xxx="the-secrets-to-finding-an-executive-position-while-still-employed.html"}
-if(x=="4"){xxx="how-to-run-an-auto-mechanic-business-from-home.html"}a_to_ve[i].href="https://safelink-kangjaz.blogspot.com/2018/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="how-to-run-an-auto-mechanic-business-from-home.html"}a_to_ve[i].href="https://zona-safelink.blogspot.com/2018/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
